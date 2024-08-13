@@ -1,9 +1,15 @@
-# Game-Seguran-a-Informacao
-Jogo para a matéria sobre segurança da informação do curso técnico de desenvolvimento de sistemas
-tipo reigns 
-- aparece uma cartinha por exemplo "você vai em uma festa e precisa utilizar wifi, você usa o wifi publico?" botão de sim ou não
-- se clica em sim, aparece outra cartinha com o texto falando "seus dados foram acessados por terceiros e agora seu celular está vuneravel, não repita isso na próxima" e perde pontos em segurança.
-- se clica em não, aparece uma cartinha de jornal falando "Centenas de pessoas em uma festa tiveram seus dados vazados após utilizarem a rede "wifi gratis seguro"". E você ganha pontos em segurança.
-- após umas 15, 20 ou 30 rodadas, o jogo acaba e mostra a pontuação do jogador, que se estiver abaixo de certo nivel, mostra uma carinha triste :( e se for normal, uma carinha :| e se for bom, uma carinha :)
+# Game-Segurança-Informacao
+Jogo para a matéria sobre segurança da informação do curso técnico de desenvolvimento de sistemas tipo reigns.
+
+### Mecânicas:
+- Menu para continuar o jogo ou criar um novo.
+- Pause ao pressionar esc.
+- Opção de salvar o jogo.
+- Salva sua última pontuação e sua maior pontuação.
+- Exibição de acontecimentos junto de uma imagem relacionada.
+- Reaja aos acontecimentos arrastando para a direita ou para esquerda, para realizar determinadas atitudes.
+- Com base em sua reação e seu tempo de reação, há consequências para a atitude que tomou, sendo elas boas ou ruins.
+- Chegue a 0 de segurança para acabar com sua jogatina, ou então, faça sua segurança ficar acima de 0 durante 30 rodadas, dessa forma vencendo o jogo.
+- Ao fim do jogo, é exibida a pontuação do jogador, junto de uma carinha ":) / :| / :(" indicando como foi toda a partida dele, se ele foi bem ou não.
 
   
