@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|c:\\users\\khaleu\\desktop\\etec\\ds\\seguranca\\game-seguranca-informacao\\game\\views\\principalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\views\\principalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|solutionrelative:views\\principalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|c:\\users\\khaleu\\desktop\\etec\\ds\\seguranca\\game-seguranca-informacao\\game\\controllers\\pictureboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\controllers\\pictureboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|solutionrelative:controllers\\pictureboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|c:\\users\\khaleu\\desktop\\etec\\ds\\seguranca\\game-seguranca-informacao\\game\\views\\principalview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|solutionrelative:views\\principalview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DCF0F1B-9F76-4947-B877-53A55FE6BD90}|game.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\views\\principalview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -34,24 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PrincipalView.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\PrincipalView.cs",
               "RelativeDocumentMoniker": "Views\\PrincipalView.cs",
               "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\PrincipalView.cs [Projeto]",
               "RelativeToolTip": "Views\\PrincipalView.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T20:17:35.564Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-08-15T00:34:10.781Z",
               "EditorCaption": " [Projeto]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrincipalView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\PrincipalView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\PrincipalView.Designer.cs",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\PrincipalView.Designer.cs",
+              "RelativeToolTip": "Views\\PrincipalView.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:18:21.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,14 +90,14 @@
               "RelativeDocumentMoniker": "Views\\PrincipalView.cs",
               "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\PrincipalView.cs",
               "RelativeToolTip": "Views\\PrincipalView.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswCgAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwB0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T20:24:38.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MenuView.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\MenuView.cs",
               "RelativeDocumentMoniker": "Views\\MenuView.cs",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MenuView.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Views\\MenuView.cs",
               "RelativeDocumentMoniker": "Views\\MenuView.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\Game\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -13,37 +13,22 @@ namespace game.Views
 {
     public partial class PrincipalView : Form
     {
-        Image teste2;
-        int i = 0;
         public PrincipalView()
         {
             InitializeComponent();
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            lb_question.Text = "testqandotestqando 12344testqando 12344testqando 12344testqando 12344testqando 12344testqando 12344testqando 12344testqando 12344 12344";
-            pb_central.Image = new Bitmap("C:/Users/khaleu/Desktop/Etec/DS/seguranca/Game-Seguranca-Informacao/Game/imgs/pessoas/reigns.png");
-            teste2 = new PictureBoxController().RotateImage(pb_central.Image, -5);
         }
 
-        private void btn_left_Click(object sender, EventArgs e)
+        private void PrincipalView_KeyDown(object sender, KeyEventArgs e)
         {
-            teste();
-            
-        }
-        public void teste()
-        {
-            if (i < 500)
+            if(e.KeyCode == Keys.Right) 
             {
-                i++;
-                teste2 = new PictureBoxController().RotateImage(pb_central.Image, (float)-0.1);
-                pb_central.Image = teste2;
-                Thread.Sleep(100);
-                teste();
+                pb_main_character.Left += 5;
             }
-        }
-
-        private void btn_right_Click(object sender, EventArgs e)
-        {
-            pb_central.Image = new Bitmap("C:/Users/khaleu/Desktop/Etec/DS/seguranca/Game-Seguranca-Informacao/Game/imgs/pessoas/3.jpg");
+            else if(e.KeyCode == Keys.Left)
+            {
+                pb_main_character.Left -= 5;
+            }
         }
     }
 }
