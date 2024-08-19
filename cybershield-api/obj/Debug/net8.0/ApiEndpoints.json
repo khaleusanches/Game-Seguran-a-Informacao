@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "cybershield_api.Controllers.QuestionController",
+    "Method": "getRandomQuestion",
+    "RelativePath": "Question",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cybershield_api.Controllers.QuestionController",
+    "Method": "getCorrectAnswer",
+    "RelativePath": "Question/{id}/{answer}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "answer",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

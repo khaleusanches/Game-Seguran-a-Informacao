@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RmzQEOJF+5c6rXvo66A1QcaAV9vKshEIUbTgMdFWVUA=",
+  "Source": "cybershield-api",
+  "BasePath": "_content/cybershield-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
