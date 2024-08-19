@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cybershield-api.props" />
+</Project>
