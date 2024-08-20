@@ -7,6 +7,8 @@ namespace cybershield_api.Models
         //[Key]
         public int id_question { get; set; }
         public string theme_question { get; set; }
+
+        public string text_question { get; set; }
         public string[] options { get; set; }
         public int _correct_answer { private get; set; }
 

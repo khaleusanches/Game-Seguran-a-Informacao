@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cybershield-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fabbfdc81147b580894ffb100d5847f616cc652e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+108f1007ac43dfacbb548afbf9f279216140a05c")]
 [assembly: System.Reflection.AssemblyProductAttribute("cybershield-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cybershield-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,12 +15,27 @@ namespace cybershield_api.Controllers
         public async Task<IActionResult> getRandomQuestion()
         {
             Random randomizer = new Random();
+            List<GetQuestionModel> result = new List<GetQuestionModel>();
             var questions_json = await questions_file.ReadToEndAsync();
             var questions = JsonConvert.DeserializeObject<List<GetQuestionModel>>(questions_json);
             var question_num = randomizer.Next(questions.Count());
             var question = questions[question_num];
-
-            return Ok(question);
+            while (true)
+            {
+                if (result.Contains(question))
+                {
+                    question_num = randomizer.Next(questions.Count());
+                    question = questions[question_num];
+                }
+                else
+                {
+                    result.Add(question);
+                }
+                if(result.Count() == 4)
+                {
+                    return Ok(result);
+                }
+            }
         }
         [HttpGet("{id}/{answer}")]
         public async Task<IActionResult> getCorrectAnswer(int id, int answer)
