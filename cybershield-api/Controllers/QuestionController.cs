@@ -31,7 +31,7 @@ namespace cybershield_api.Controllers
                 {
                     result.Add(question);
                 }
-                if(result.Count() == 4)
+                if(result.Count() == 15)
                 {
                     return Ok(result);
                 }

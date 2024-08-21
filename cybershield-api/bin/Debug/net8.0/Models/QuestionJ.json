@@ -1,52 +1,282 @@
 [
   {
     "id_question": 1,
-    "theme_question": "Phishing",
-    "text_question":  "teste",
+    "theme_question": "Mecanismos de Segurança",
+    "text_question": "Seu navegador solicita que você aceite um certificado de segurança desconhecido.",
     "options": [
-      "textotexto",
-      "textotexto"
+      "Investigar a procedência do certificado e apenas aceitá-lo se for de uma fonte confiável.",
+      "Aceitar o certificado sem verificar a sua origem."
     ],
     "correct_answer": 0
   },
   {
     "id_question": 2,
-    "theme_question": "Golpes",
-    "text_question": "teste",
+    "theme_question": "Mecanismos de Segurança",
+    "text_question": "Um site pede para instalar um plugin de segurança adicional.",
     "options": [
-      "textotexto2",
-      "textotexto2"
+      "Pesquisar sobre o plugin e verificar se é necessário e seguro.",
+      "Instalar o plugin imediatamente sem investigar sua autenticidade."
     ],
     "correct_answer": 0
   },
   {
     "id_question": 3,
-    "theme_question": "seilaaa",
-    "text_question": "teste",
+    "theme_question": "Mecanismos de Segurança",
+    "text_question": "Um aplicativo oferece uma nova atualização com correções de segurança.",
     "options": [
-      "textotexsadadsto2",
-      "textotextdsaadso2"
+      "Atualizar o aplicativo o mais rápido possível para garantir a segurança.",
+      "Ignorar a atualização e continuar usando a versão antiga."
     ],
-    "correct_answer": 1
+    "correct_answer": 0
   },
   {
     "id_question": 4,
-    "theme_question": "Gadsolpes",
-    "text_question": "teste",
+    "theme_question": "Mecanismos de Segurança",
+    "text_question": "Você recebe um e-mail sobre uma vulnerabilidade recém-descoberta.",
     "options": [
-      "textotexaato2",
-      "textotexaatoasd2"
+      "Verificar as fontes oficiais e aplicar as correções recomendadas.",
+      "Ignorar o e-mail, assumindo que não é relevante."
     ],
-    "correct_answer": 1
+    "correct_answer": 0
   },
   {
     "id_question": 5,
-    "theme_question": "Golpdasdaes",
-    "text_question": "teste",
+    "theme_question": "Contas e Senhas",
+    "text_question": "Você usa a mesma senha para várias contas.",
     "options": [
-      "textoteaaaaaaaaaaaaaaaxto2",
-      "textotextaaaaaaaaaaaaaaaao2"
+      "Criar senhas únicas para cada conta usando um gerenciador de senhas.",
+      "Continuar usando a mesma senha para todas as contas."
     ],
-    "correct_answer": 1
+    "correct_answer": 0
+  },
+  {
+    "id_question": 6,
+    "theme_question": "Contas e Senhas",
+    "text_question": "Um site sugere uma senha fraca para sua conta.",
+    "options": [
+      "Gerar e utilizar uma senha forte, com combinação de letras, números e símbolos.",
+      "Aceitar a senha sugerida pelo site sem modificações."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 7,
+    "theme_question": "Contas e Senhas",
+    "text_question": "Você recebe um e-mail solicitando que redefina sua senha em um site.",
+    "options": [
+      "Acessar o site diretamente e verificar se há necessidade de redefinir a senha.",
+      "Clicar no link do e-mail sem verificar sua autenticidade."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 8,
+    "theme_question": "Contas e Senhas",
+    "text_question": "Sua senha foi comprometida em uma violação de dados.",
+    "options": [
+      "Alterar a senha imediatamente e ativar a autenticação em duas etapas.",
+      "Ignorar o aviso e continuar usando a senha comprometida."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 9,
+    "theme_question": "Criptografia",
+    "text_question": "Um aplicativo de mensagens oferece a opção de criptografia de ponta a ponta.",
+    "options": [
+      "Ativar a criptografia de ponta a ponta para proteger suas conversas.",
+      "Deixar a criptografia desativada, usando as configurações padrão."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 10,
+    "theme_question": "Criptografia",
+    "text_question": "Você precisa enviar informações confidenciais por e-mail.",
+    "options": [
+      "Criptografar o arquivo antes de enviá-lo.",
+      "Enviar o arquivo diretamente sem qualquer forma de criptografia."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 11,
+    "theme_question": "Criptografia",
+    "text_question": "Um site de compras online não usa HTTPS.",
+    "options": [
+      "Evitar fazer compras nesse site e procurar alternativas seguras.",
+      "Prosseguir com a compra, ignorando a falta de criptografia."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 12,
+    "theme_question": "Criptografia",
+    "text_question": "Você armazena arquivos importantes em um serviço de nuvem.",
+    "options": [
+      "Usar criptografia para proteger os arquivos antes de enviá-los à nuvem.",
+      "Armazenar os arquivos sem qualquer proteção adicional."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 13,
+    "theme_question": "Uso Seguro da Internet",
+    "text_question": "Você encontra uma rede Wi-Fi pública sem senha.",
+    "options": [
+      "Evitar acessar informações sensíveis ou usar uma VPN para proteção.",
+      "Conectar-se à rede e acessar contas bancárias ou outros dados confidenciais."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 14,
+    "theme_question": "Uso Seguro da Internet",
+    "text_question": "Um amigo envia um link suspeito em uma rede social.",
+    "options": [
+      "Perguntar ao amigo sobre o link antes de clicar ou ignorá-lo.",
+      "Clicar no link imediatamente, sem verificar sua segurança."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 15,
+    "theme_question": "Uso Seguro da Internet",
+    "text_question": "Um site solicita permissões excessivas no seu navegador.",
+    "options": [
+      "Revogar as permissões desnecessárias e sair do site se ele parecer suspeito.",
+      "Conceder todas as permissões solicitadas, sem questionar."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 16,
+    "theme_question": "Uso Seguro da Internet",
+    "text_question": "Você está prestes a baixar um software de um site desconhecido.",
+    "options": [
+      "Pesquisar o software e baixar apenas de fontes oficiais ou confiáveis.",
+      "Baixar o software diretamente, sem verificar a reputação do site."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 17,
+    "theme_question": "Privacidade",
+    "text_question": "Um aplicativo solicita acesso a seus contatos e localização.",
+    "options": [
+      "Conceder apenas as permissões necessárias para o funcionamento do aplicativo.",
+      "Conceder todas as permissões solicitadas sem pensar nas implicações."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 18,
+    "theme_question": "Privacidade",
+    "text_question": "Você publica fotos pessoais em redes sociais.",
+    "options": [
+      "Configurar a privacidade das fotos para que apenas amigos próximos possam vê-las.",
+      "Tornar as fotos públicas para todos, sem restrições."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 19,
+    "theme_question": "Privacidade",
+    "text_question": "Um site de compras pergunta se você deseja salvar as informações do seu cartão de crédito.",
+    "options": [
+      "Optar por não salvar as informações e digitar os dados sempre que necessário.",
+      "Salvar os dados do cartão para facilitar compras futuras, sem considerar os riscos."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 20,
+    "theme_question": "Privacidade",
+    "text_question": "Seu telefone solicita que você ative a localização para todos os aplicativos.",
+    "options": [
+      "Ativar a localização apenas para aplicativos essenciais.",
+      "Ativar a localização para todos os aplicativos, sem distinção."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 21,
+    "theme_question": "Segurança de Computadores",
+    "text_question": "Seu antivírus detecta um arquivo malicioso no seu computador.",
+    "options": [
+      "Colocar o arquivo em quarentena e seguir as recomendações do antivírus.",
+      "Ignorar o aviso do antivírus e continuar usando o computador normalmente."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 22,
+    "theme_question": "Segurança de Computadores",
+    "text_question": "Você recebe um e-mail com um anexo de origem desconhecida.",
+    "options": [
+      "Excluir o e-mail e não abrir o anexo.",
+      "Baixar e abrir o anexo sem precauções."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 23,
+    "theme_question": "Segurança de Computadores",
+    "text_question": "Seu computador está funcionando de forma lenta e instável.",
+    "options": [
+      "Fazer uma varredura completa com seu software de segurança.",
+      "Continuar usando o computador sem investigar a causa do problema."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 24,
+    "theme_question": "Segurança de Computadores",
+    "text_question": "Um site solicita que você desative o antivírus para continuar.",
+    "options": [
+      "Não desativar o antivírus e sair imediatamente do site.",
+      "Desativar o antivírus e prosseguir com o que o site solicita."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 25,
+    "theme_question": "Segurança de Redes",
+    "text_question": "Você está configurando uma nova rede Wi-Fi em casa.",
+    "options": [
+      "Configurar uma senha forte e habilitar WPA3 para maior segurança.",
+      "Usar uma senha fraca ou deixar a rede sem senha."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 26,
+    "theme_question": "Segurança de Redes",
+    "text_question": "Um dispositivo desconhecido tenta se conectar à sua rede Wi-Fi.",
+    "options": [
+      "Negar o acesso e verificar a segurança da sua rede.",
+      "Permitir o acesso, assumindo que é inofensivo."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 27,
+    "theme_question": "Segurança de Redes",
+    "text_question": "Seu roteador solicita uma atualização de firmware.",
+    "options": [
+      "Atualizar o firmware para garantir a segurança da rede.",
+      "Ignorar a atualização e continuar usando o roteador com a versão antiga."
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id_question": 28,
+    "theme_question": "Segurança de Redes",
+    "text_question": "Você compartilha a senha do Wi-Fi com um convidado.",
+    "options": [
+      "Criar uma rede de convidados separada para fornecer acesso à Internet.",
+      "Compartilhar a senha da sua rede principal sem pensar nos riscos."
+    ],
+    "correct_answer": 0
   }
 ]
