@@ -11,6 +11,7 @@ namespace cybershield_api.Models
         public string text_question { get; set; }
         public string[] options { get; set; }
         public int _correct_answer { private get; set; }
+        public string explanation { get; set; }
 
         //public QuestionModel(string theme_question, string[] options, string correct_answer)
         //{

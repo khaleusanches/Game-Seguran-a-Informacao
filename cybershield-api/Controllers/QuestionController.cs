@@ -48,11 +48,11 @@ namespace cybershield_api.Controllers
                 {
                     if (questions[i].Correct_answer == answer)
                     {
-                        return Ok("resposta correta");
+                        return Ok(new GetExplanation(questions[i].options[answer],"", "Você acertou"));
                     }
                     else
                     {
-                        return Ok("resposta errada");
+                        return Ok(new GetExplanation(questions[i].options[answer], questions[i].explanation));
                     }
                 }
             }

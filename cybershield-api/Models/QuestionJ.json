@@ -7,7 +7,8 @@
       "Investigar a procedência do certificado e apenas aceitá-lo se for de uma fonte confiável.",
       "Aceitar o certificado sem verificar a sua origem."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Aceitar um certificado de segurança sem verificar sua origem é perigoso, pois pode ser um certificado falso ou comprometido. Isso pode permitir que hackers interceptem ou modifiquem as comunicações entre o navegador e o site, levando a possíveis ataques de phishing, roubo de informações ou outras ameaças à segurança."
   },
   {
     "id_question": 2,
@@ -17,7 +18,8 @@
       "Pesquisar sobre o plugin e verificar se é necessário e seguro.",
       "Instalar o plugin imediatamente sem investigar sua autenticidade."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Instalar plugins sem verificar sua autenticidade pode expor o sistema a malware ou softwares maliciosos que roubam dados, rastreiam atividades ou causam danos. É essencial garantir que o plugin é necessário e provém de uma fonte confiável."
   },
   {
     "id_question": 3,
@@ -27,7 +29,8 @@
       "Atualizar o aplicativo o mais rápido possível para garantir a segurança.",
       "Ignorar a atualização e continuar usando a versão antiga."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Ignorar atualizações de segurança deixa o aplicativo vulnerável a explorações conhecidas que os desenvolvedores já corrigiram. Isso coloca em risco a segurança dos dados e a integridade do dispositivo."
   },
   {
     "id_question": 4,
@@ -37,7 +40,8 @@
       "Verificar as fontes oficiais e aplicar as correções recomendadas.",
       "Ignorar o e-mail, assumindo que não é relevante."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Ignorar alertas de segurança pode resultar em falhas de segurança não corrigidas que poderiam ser exploradas. É importante verificar a autenticidade do e-mail e seguir as orientações de segurança fornecidas."
   },
   {
     "id_question": 5,
@@ -47,7 +51,8 @@
       "Criar senhas únicas para cada conta usando um gerenciador de senhas.",
       "Continuar usando a mesma senha para todas as contas."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Usar a mesma senha para várias contas aumenta o risco de uma violação de segurança afetar todas as contas do usuário, especialmente se uma delas for comprometida. Senhas únicas ajudam a proteger cada conta individualmente."
   },
   {
     "id_question": 6,
@@ -57,7 +62,8 @@
       "Gerar e utilizar uma senha forte, com combinação de letras, números e símbolos.",
       "Aceitar a senha sugerida pelo site sem modificações."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Senhas fracas são mais fáceis de serem descobertas por hackers através de ataques de força bruta ou de dicionário. É fundamental usar senhas fortes, com combinações complexas de letras, números e símbolos."
   },
   {
     "id_question": 7,
@@ -67,7 +73,8 @@
       "Acessar o site diretamente e verificar se há necessidade de redefinir a senha.",
       "Clicar no link do e-mail sem verificar sua autenticidade."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Clicar em links de e-mails sem verificar pode levar a sites de phishing que tentam roubar credenciais de login e outras informações pessoais. Sempre acesse diretamente o site oficial para garantir a segurança."
   },
   {
     "id_question": 8,
@@ -77,7 +84,8 @@
       "Alterar a senha imediatamente e ativar a autenticação em duas etapas.",
       "Ignorar o aviso e continuar usando a senha comprometida."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Continuar usando uma senha comprometida permite que invasores mantenham o acesso às contas, expondo dados e informações pessoais a riscos maiores. Alterar a senha imediatamente e usar autenticação em duas etapas aumenta a segurança."
   },
   {
     "id_question": 9,
@@ -87,7 +95,8 @@
       "Ativar a criptografia de ponta a ponta para proteger suas conversas.",
       "Deixar a criptografia desativada, usando as configurações padrão."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Desativar a criptografia de ponta a ponta expõe as comunicações a interceptações e acessos não autorizados. A criptografia protege a privacidade e a integridade das mensagens trocadas."
   },
   {
     "id_question": 10,
@@ -97,7 +106,8 @@
       "Criptografar o arquivo antes de enviá-lo.",
       "Enviar o arquivo diretamente sem qualquer forma de criptografia."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Enviar informações confidenciais sem criptografia expõe esses dados a interceptação e roubo por terceiros mal-intencionados. Criptografar o arquivo garante que apenas destinatários autorizados possam acessá-lo."
   },
   {
     "id_question": 11,
@@ -107,7 +117,8 @@
       "Evitar fazer compras nesse site e procurar alternativas seguras.",
       "Prosseguir com a compra, ignorando a falta de criptografia."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Comprar em sites que não utilizam HTTPS (protocolo seguro) coloca informações sensíveis, como dados de cartão de crédito, em risco de serem interceptadas. Sempre use sites que protejam a transmissão de dados com HTTPS."
   },
   {
     "id_question": 12,
@@ -117,7 +128,8 @@
       "Usar criptografia para proteger os arquivos antes de enviá-los à nuvem.",
       "Armazenar os arquivos sem qualquer proteção adicional."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Armazenar arquivos importantes na nuvem sem criptografia deixa-os vulneráveis a acessos não autorizados e possíveis violações de segurança. Usar criptografia adicional fornece uma camada extra de proteção."
   },
   {
     "id_question": 13,
@@ -127,7 +139,8 @@
       "Evitar acessar informações sensíveis ou usar uma VPN para proteção.",
       "Conectar-se à rede e acessar contas bancárias ou outros dados confidenciais."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Redes Wi-Fi públicas sem senha são inseguras e podem ser facilmente interceptadas por hackers, expondo informações confidenciais. É melhor evitar o acesso a dados sensíveis ou usar uma VPN para segurança adicional."
   },
   {
     "id_question": 14,
@@ -137,7 +150,8 @@
       "Perguntar ao amigo sobre o link antes de clicar ou ignorá-lo.",
       "Clicar no link imediatamente, sem verificar sua segurança."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Clicar em links suspeitos sem verificar pode levar a sites maliciosos ou de phishing, que comprometem a segurança dos dispositivos e informações pessoais. Sempre confirme com o remetente a legitimidade do link."
   },
   {
     "id_question": 15,
@@ -147,117 +161,129 @@
       "Revogar as permissões desnecessárias e sair do site se ele parecer suspeito.",
       "Conceder todas as permissões solicitadas, sem questionar."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Permissões excessivas podem comprometer a privacidade e a segurança, permitindo que sites acessem informações sensíveis ou controlem o navegador de forma não autorizada. Permissões devem ser concedidas com cautela."
   },
   {
     "id_question": 16,
     "theme_question": "Uso Seguro da Internet",
-    "text_question": "Você está prestes a baixar um software de um site desconhecido.",
+    "text_question": "Você precisa baixar um software para seu computador.",
     "options": [
-      "Pesquisar o software e baixar apenas de fontes oficiais ou confiáveis.",
+      "Baixar o software de sites oficiais ou confiáveis.",
       "Baixar o software diretamente, sem verificar a reputação do site."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Baixar software de sites desconhecidos pode introduzir malware ou programas indesejados no sistema. Verificar a fonte garante que o software seja seguro e livre de ameaças."
   },
   {
     "id_question": 17,
     "theme_question": "Privacidade",
-    "text_question": "Um aplicativo solicita acesso a seus contatos e localização.",
+    "text_question": "Um aplicativo solicita acesso aos seus contatos, fotos e localização.",
     "options": [
-      "Conceder apenas as permissões necessárias para o funcionamento do aplicativo.",
+      "Permitir apenas o acesso necessário para o funcionamento do aplicativo.",
       "Conceder todas as permissões solicitadas sem pensar nas implicações."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Conceder permissões desnecessárias a aplicativos pode expor dados sensíveis ou permitir rastreamento indevido. É essencial limitar as permissões para proteger a privacidade."
   },
   {
     "id_question": 18,
     "theme_question": "Privacidade",
-    "text_question": "Você publica fotos pessoais em redes sociais.",
+    "text_question": "Você deseja compartilhar fotos pessoais em redes sociais.",
     "options": [
-      "Configurar a privacidade das fotos para que apenas amigos próximos possam vê-las.",
+      "Usar configurações de privacidade para compartilhar apenas com amigos e familiares.",
       "Tornar as fotos públicas para todos, sem restrições."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Tornar fotos pessoais públicas expõe o usuário a riscos de privacidade, como roubo de identidade ou uso indevido de imagens. Restringir a visualização protege contra esses riscos."
   },
   {
     "id_question": 19,
     "theme_question": "Privacidade",
-    "text_question": "Um site de compras pergunta se você deseja salvar as informações do seu cartão de crédito.",
+    "text_question": "Um site de compras oferece a opção de salvar os dados do cartão de crédito.",
     "options": [
-      "Optar por não salvar as informações e digitar os dados sempre que necessário.",
+      "Inserir manualmente os dados do cartão a cada compra para maior segurança.",
       "Salvar os dados do cartão para facilitar compras futuras, sem considerar os riscos."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Salvar informações de cartão de crédito em sites aumenta o risco de exposição em caso de violação de segurança. Inserir os dados manualmente é uma prática mais segura."
   },
   {
     "id_question": 20,
     "theme_question": "Privacidade",
-    "text_question": "Seu telefone solicita que você ative a localização para todos os aplicativos.",
+    "text_question": "Aplicativos solicitam acesso à sua localização.",
     "options": [
-      "Ativar a localização apenas para aplicativos essenciais.",
+      "Permitir acesso apenas a aplicativos que necessitam dessa informação para funcionar.",
       "Ativar a localização para todos os aplicativos, sem distinção."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Ativar a localização para todos os aplicativos pode comprometer a privacidade, permitindo o rastreamento constante da localização do usuário. Apenas aplicativos essenciais devem ter acesso a essa informação."
   },
   {
     "id_question": 21,
     "theme_question": "Segurança de Computadores",
-    "text_question": "Seu antivírus detecta um arquivo malicioso no seu computador.",
+    "text_question": "Seu antivírus detecta um arquivo suspeito.",
     "options": [
-      "Colocar o arquivo em quarentena e seguir as recomendações do antivírus.",
+      "Quarentenar ou remover o arquivo conforme recomendação do antivírus.",
       "Ignorar o aviso do antivírus e continuar usando o computador normalmente."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Ignorar avisos de antivírus sobre arquivos maliciosos coloca o sistema em risco, pois esses arquivos podem causar danos, roubar dados ou comprometer a segurança. Seguir as recomendações do antivírus é crucial."
   },
   {
     "id_question": 22,
     "theme_question": "Segurança de Computadores",
-    "text_question": "Você recebe um e-mail com um anexo de origem desconhecida.",
+    "text_question": "Você recebe um e-mail de um remetente desconhecido com um anexo.",
     "options": [
-      "Excluir o e-mail e não abrir o anexo.",
+      "Excluir o e-mail imediatamente e não abrir o anexo.",
       "Baixar e abrir o anexo sem precauções."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Abrir anexos de e-mails desconhecidos pode introduzir malware ou outras ameaças ao sistema. É seguro excluir e-mails suspeitos para evitar riscos."
   },
   {
     "id_question": 23,
     "theme_question": "Segurança de Computadores",
-    "text_question": "Seu computador está funcionando de forma lenta e instável.",
+    "text_question": "Seu computador está funcionando mais lentamente do que o normal.",
     "options": [
-      "Fazer uma varredura completa com seu software de segurança.",
+      "Executar uma varredura completa com o antivírus para detectar possíveis ameaças.",
       "Continuar usando o computador sem investigar a causa do problema."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Continuar usando um computador lento e instável sem investigar pode permitir que malware ou outros problemas de segurança persistam. Fazer uma varredura ajuda a identificar e resolver problemas."
   },
   {
     "id_question": 24,
     "theme_question": "Segurança de Computadores",
-    "text_question": "Um site solicita que você desative o antivírus para continuar.",
+    "text_question": "Você está tentando acessar um site que solicita a desativação do antivírus.",
     "options": [
-      "Não desativar o antivírus e sair imediatamente do site.",
+      "Fechar o site imediatamente e evitar desativar o antivírus.",
       "Desativar o antivírus e prosseguir com o que o site solicita."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Desativar o antivírus compromete a segurança do sistema e pode permitir a entrada de malware. Manter o antivírus ativado é fundamental para proteger contra ameaças."
   },
   {
     "id_question": 25,
     "theme_question": "Segurança de Redes",
     "text_question": "Você está configurando uma nova rede Wi-Fi em casa.",
     "options": [
-      "Configurar uma senha forte e habilitar WPA3 para maior segurança.",
+      "Criar uma senha forte e usar o protocolo de segurança WPA3.",
       "Usar uma senha fraca ou deixar a rede sem senha."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Usar senhas fracas ou deixar uma rede sem senha facilita o acesso não autorizado e compromete a segurança da rede doméstica. Uma senha forte e o uso de WPA3 garantem maior proteção."
   },
   {
     "id_question": 26,
     "theme_question": "Segurança de Redes",
-    "text_question": "Um dispositivo desconhecido tenta se conectar à sua rede Wi-Fi.",
+    "text_question": "Um dispositivo desconhecido tenta se conectar à sua rede doméstica.",
     "options": [
-      "Negar o acesso e verificar a segurança da sua rede.",
+      "Recusar o acesso e verificar os dispositivos conectados à sua rede.",
       "Permitir o acesso, assumindo que é inofensivo."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Permitir que dispositivos desconhecidos se conectem à sua rede sem verificação pode comprometer a segurança, permitindo ataques ou acessos não autorizados. É importante verificar e controlar quem tem acesso."
   },
   {
     "id_question": 27,
@@ -267,7 +293,8 @@
       "Atualizar o firmware para garantir a segurança da rede.",
       "Ignorar a atualização e continuar usando o roteador com a versão antiga."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Ignorar as atualizações de firmware do roteador pode deixar sua rede vulnerável a ataques, pois as atualizações frequentemente corrigem falhas de segurança e melhoram o desempenho. Atualizar o firmware garante que o roteador esteja protegido contra ameaças conhecidas."
   },
   {
     "id_question": 28,
@@ -277,6 +304,7 @@
       "Criar uma rede de convidados separada para fornecer acesso à Internet.",
       "Compartilhar a senha da sua rede principal sem pensar nos riscos."
     ],
-    "correct_answer": 0
+    "correct_answer": 0,
+    "explanation": "Compartilhar a senha da sua rede principal com convidados pode comprometer a segurança da sua rede doméstica, permitindo acessos indesejados aos dispositivos conectados e aos dados compartilhados. Criar uma rede de convidados mantém sua rede principal segura e separada."
   }
 ]
