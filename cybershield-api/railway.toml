@@ -1,0 +1,7 @@
+﻿[build]
+builder = "dockerfile"
+dockerfilePath = "./cybershield-api/Dockerfile"
+
+[deploy]
+startCommand = "dotnet cybershield-api.dll"
+restartPolicyType = "never"

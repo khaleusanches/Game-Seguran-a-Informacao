@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|c:\\users\\khaleu\\desktop\\etec\\ds\\seguranca\\game-seguranca-informacao\\cybershield-api\\railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:railway.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|c:\\users\\khaleu\\desktop\\etec\\ds\\seguranca\\game-seguranca-informacao\\cybershield-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "railway.toml",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\railway.toml",
+              "RelativeDocumentMoniker": "railway.toml",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\railway.toml",
+              "RelativeToolTip": "railway.toml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T11:51:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T11:50:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -70,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -119,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GetExplanation.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\GetExplanation.cs",
               "RelativeDocumentMoniker": "Models\\GetExplanation.cs",
@@ -131,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "QuestionController.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Controllers\\QuestionController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuestionController.cs",
@@ -143,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GetQuestionModel.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\GetQuestionModel.cs",
               "RelativeDocumentMoniker": "Models\\GetQuestionModel.cs",
@@ -155,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "QuestionModel.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\QuestionModel.cs",
               "RelativeDocumentMoniker": "Models\\QuestionModel.cs",
@@ -167,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "QuestionJ.json",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\QuestionJ.json",
               "RelativeDocumentMoniker": "Models\\QuestionJ.json",

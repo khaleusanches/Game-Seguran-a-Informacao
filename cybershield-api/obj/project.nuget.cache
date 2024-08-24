@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "igQCUsDJ4ZFYa0HOTGPE9+SLG1VcypAtpQ2Q18rREnI09qhTGhhiRaUX0bcTFQu7w3myCaONhmeXuj9tDSg40A==",
+  "dgSpecHash": "0gZMkY3taBohsWpjmj4PpOuF+A0YWxqaXEBvjvsLUf+GiNnul/V+4fV3zVPv7XwQDDVT9JISEQN4vOsPu7/pLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\cybershield-api.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\khaleu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\khaleu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\khaleu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\khaleu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\khaleu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\khaleu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\khaleu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
