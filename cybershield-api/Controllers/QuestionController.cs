@@ -33,7 +33,7 @@ namespace cybershield_api.Controllers
                 }
                 if(result.Count() == 15)
                 {
-                    return Ok(result);
+                    return Json(result);
                 }
             }
         }
@@ -48,11 +48,11 @@ namespace cybershield_api.Controllers
                 {
                     if (questions[i].Correct_answer == answer)
                     {
-                        return Ok(new GetExplanation(questions[i].options[answer],"", "Você acertou"));
+                        return Json(new GetExplanation(questions[i].options[answer],"", "Você acertou"));
                     }
                     else
                     {
-                        return Ok(new GetExplanation(questions[i].options[answer], questions[i].explanation));
+                        return Json(new GetExplanation(questions[i].options[answer], questions[i].explanation));
                     }
                 }
             }
