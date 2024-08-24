@@ -7,11 +7,27 @@
       "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|c:\\users\\khaleu\\desktop\\etec\\ds\\seguranca\\game-seguranca-informacao\\cybershield-api\\models\\questionj.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\models\\questionj.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3F4A8DC2-CE5C-461B-88C9-F447E575F393}|cybershield-api.csproj|solutionrelative:models\\questionj.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +58,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T11:39:52.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T11:26:54.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T11:26:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T11:26:40.731Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ToolTip": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T01:43:12.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GetExplanation.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\GetExplanation.cs",
               "RelativeDocumentMoniker": "Models\\GetExplanation.cs",
@@ -67,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "QuestionController.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Controllers\\QuestionController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuestionController.cs",
@@ -75,12 +139,11 @@
               "RelativeToolTip": "Controllers\\QuestionController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:32:50.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T17:32:50.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GetQuestionModel.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\GetQuestionModel.cs",
               "RelativeDocumentMoniker": "Models\\GetQuestionModel.cs",
@@ -92,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "QuestionModel.cs",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\QuestionModel.cs",
               "RelativeDocumentMoniker": "Models\\QuestionModel.cs",
@@ -104,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "QuestionJ.json",
               "DocumentMoniker": "C:\\Users\\khaleu\\Desktop\\Etec\\DS\\seguranca\\Game-Seguranca-Informacao\\cybershield-api\\Models\\QuestionJ.json",
               "RelativeDocumentMoniker": "Models\\QuestionJ.json",
@@ -112,8 +175,7 @@
               "RelativeToolTip": "Models\\QuestionJ.json",
               "ViewState": "AQIAAFoAAAAAAAAAAAAiwDABAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T17:25:33.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T17:25:33.88Z"
             }
           ]
         },
