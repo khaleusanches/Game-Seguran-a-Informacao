@@ -15,9 +15,9 @@ namespace cybershield_api.Controllers
         public async Task<IActionResult> getRandomQuestion()
         {
             Random randomizer = new Random();
-            List<GetQuestionModel> result = new List<GetQuestionModel>();
+            List<QuestionModel> result = new List<QuestionModel>();
             var questions_json = await questions_file.ReadToEndAsync();
-            var questions = JsonConvert.DeserializeObject<List<GetQuestionModel>>(questions_json);
+            var questions = JsonConvert.DeserializeObject<List<QuestionModel>>(questions_json);
             var question_num = randomizer.Next(questions.Count());
             var question = questions[question_num];
             while (true)
@@ -36,27 +36,6 @@ namespace cybershield_api.Controllers
                     return Json(result);
                 }
             }
-        }
-        [HttpGet("{id}/{answer}")]
-        public async Task<IActionResult> getCorrectAnswer(int id, int answer)
-        {
-            var questions_json = await questions_file.ReadToEndAsync();
-            var questions = JsonConvert.DeserializeObject<List<QuestionModel>>(questions_json);
-            for (int i = 0; i < questions.Count(); i++)
-            {
-                if (questions[i].id_question == id)
-                {
-                    if (questions[i].Correct_answer == answer)
-                    {
-                        return Json(new GetExplanation(questions[i].options[answer],"", "Você acertou"));
-                    }
-                    else
-                    {
-                        return Json(new GetExplanation(questions[i].options[answer], questions[i].explanation));
-                    }
-                }
-            }
-            return Ok();
         }
     }
 }

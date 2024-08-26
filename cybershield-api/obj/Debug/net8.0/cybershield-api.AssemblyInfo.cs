@@ -11,11 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c2ac6831-c9d7-4bd3-8472-0475499c7ed9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("cybershield-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+693effc5cb48b156eab9278a6e432aaa203ee7c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f0dd2db729e3344cc4d8993b38dce1f6987fab")]
 [assembly: System.Reflection.AssemblyProductAttribute("cybershield-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cybershield-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

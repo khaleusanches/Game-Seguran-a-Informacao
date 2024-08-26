@@ -10,21 +10,103 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "cybershield_api.Controllers.QuestionController",
-    "Method": "getCorrectAnswer",
-    "RelativePath": "Question/{id}/{answer}",
+    "ContainingType": "cybershield_api.Controllers.ScoresController",
+    "Method": "getScores",
+    "RelativePath": "Scores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cybershield_api.Controllers.ScoresController",
+    "Method": "postScore",
+    "RelativePath": "Scores/attScores/user={users_id};score={score};HoraPontuacao={HoraPontuacao}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "users_id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "score",
         "Type": "System.Int32",
         "IsRequired": true
       },
       {
-        "Name": "answer",
-        "Type": "System.Int32",
+        "Name": "HoraPontuacao",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cybershield_api.Controllers.UserController",
+    "Method": "getUsers",
+    "RelativePath": "Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[cybershield_api.Models.Usuarios, cybershield-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "cybershield_api.Controllers.UserController",
+    "Method": "cadUser",
+    "RelativePath": "Users/cad/user={username}\u0026email={email}\u0026password={password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cybershield_api.Controllers.UserController",
+    "Method": "loginUser",
+    "RelativePath": "Users/login/email={email}\u0026\u0026password={password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
